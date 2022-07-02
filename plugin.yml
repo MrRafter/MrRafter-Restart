@@ -1,0 +1,5 @@
+name: MrRafter-Restart
+author: MrRafter
+version: 1.0
+main: me.MrRafter.restartplugin.Main
+description: Plugin that mimics the restart of 2b2t

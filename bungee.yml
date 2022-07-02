@@ -1,0 +1,4 @@
+name: MrRafter-Restart
+version: 1.0
+main: me.MrRafter.restartplugin.RestartPluginBungee
+author: MrRafter

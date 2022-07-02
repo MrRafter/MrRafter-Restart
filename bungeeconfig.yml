@@ -1,0 +1,15 @@
+# Minecraft restart notifications plugin by MrRafter
+# Time to where the server will call a restart
+Timezone: "America/New_York"
+# THIS IS IN 24 HOUR TIME
+RestartTimes:
+  - "5:00:00"  # 5 AM EST
+# - "17:00:00" # 5 PM EST
+
+# %timeword% is the minute/seconds/second string.
+# %time% is the number, ex: 15/10/5/2
+string: "&e[SERVER] Server restarting in %time% %timeword%"
+finalstring: "&e[SERVER] Server restarting..."
+minutestring: "minutes..."
+secondsstring: "seconds..."
+secondstring: "second..."
